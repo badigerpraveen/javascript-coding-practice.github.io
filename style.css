@@ -1,0 +1,21 @@
+body {
+  margin: 10px;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+#outer {
+  width: 900px;
+  height: 450px;
+  background-color: bisque;
+  padding: 10px;
+}
+
+#inner {
+  width: 700px;
+  height: 250px;
+  background-color: #0d7eae;
+  padding: 10px;
+}
+/*# sourceMappingURL=style.css.map */
